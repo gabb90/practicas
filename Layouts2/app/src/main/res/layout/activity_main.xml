@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:srcCompat="@drawable/imagenpaises"
+
+        android:layout_centerInParent="true"
+
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#3A3636"
+        android:alpha="0.7"
+
+        />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:srcCompat="@drawable/agujas"
+        android:layout_centerInParent="true"
+
+        /> <TextView
+    android:id="@+id/t1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#0927DA"
+    android:padding="10dp"
+    android:text="My Application"
+    android:textColor="#FFFFFF"
+    android:textSize="20dp"
+
+    />
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/t1"
+        android:text="Horarios de paises"
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:textSize="30dp"
+        android:textColor="#FFFFFF"
+        android:background="#000000"
+
+        />
+
+
+</RelativeLayout>
