@@ -7,52 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c12c2916-9703-4d60-8b30-3c1f29e946ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/androidTest/java/com/example/loginregisterfragments/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/java/com/example/loginregisterfragments/FragmentFormulario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/java/com/example/loginregisterfragments/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/java/com/example/loginregisterfragments/WelcomeActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/java/com/example/loginregisterfragments/WelcomeFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/layout/activity_welcome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/layout/fragment_fragment_formulario.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/layout/fragment_welcome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/test/java/com/example/loginregisterfragments/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FragmentsEjercitacion1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FragmentsEjercitacion1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/layout/fragment_welcome.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComunicacionEntreFragmentsEjercitacion1/LoginRegisterFragments/app/src/main/res/layout/fragment_welcome.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -251,6 +206,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" weight="0.32980332" />
       <window_info id="Structure" side_tool="true" />
